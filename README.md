@@ -3,7 +3,7 @@
 This repository contains the implementation code for the [paper](https://arxiv.org/abs/2507.09640) "Disentanglement and Assessment of Shortcuts in Ophthalmological Retinal Imaging Exams" by Leonor Fernandes, Tiago Gonçalves, João Matos, Luis Filipe Nakayama and Jaime S. Cardoso.
 
 ## Contributors
-* Leonor Fernandes ([GitHub](https://github.com/leofer99) / Hugging Face)
+* Leonor Fernandes ([GitHub](https://github.com/leofer99) / [Hugging Face](https://huggingface.co/leonorfernandes))
 * Tiago Gonçalves ([GitHub](https://github.com/TiagoFilipeSousaGoncalves) / [Hugging Face](https://huggingface.co/tiagofilipesousagoncalves))
 * João Matos ([GitHub](https://github.com/joamats) / [Hugging Face](https://huggingface.co/joamats))
 * Luis Filipe Nakayama (GitHub / Hugging Face)
